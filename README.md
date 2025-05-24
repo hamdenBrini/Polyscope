@@ -22,6 +22,7 @@ This project is a complete **digital oscilloscope system** combining embedded si
 - **FFT view** for frequency analysis
 - **Filter options** to reduce noise (low-pass, high-pass, etc.)
 - Interactive interface for zooming, pausing, and saving data
+![Graphical Interface](assets/scope_ui.png)
 
 ### Signal Conditioning
 - Designed a **voltage adaptation circuit** to shift input signals into the STM32 ADC range
@@ -45,3 +46,11 @@ This project is a complete **digital oscilloscope system** combining embedded si
 Install dependencies:
 ```bash
 pip install pyqt5 pyserial numpy scipy matplotlib
+```
+## Contributors
+- Hamdane BRINI
+- Omar KAMMOUN
+- Jamila BEN CHEIKH
+- Zakaria M'HEMMED
+- Khalil ZRAYER
+
