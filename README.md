@@ -1,7 +1,7 @@
 # PolyScope
 
 This project is a complete **digital oscilloscope system** combining embedded signal acquisition and a desktop-based graphical interface. It enables **real-time signal visualization**, **FFT analysis**, and **noise filtering**.
-
+![FFT](assets/3D_model_exploded_view.png)
 ## Overview
 
 - **Microcontroller**: STM32H533RE  
@@ -21,8 +21,10 @@ This project is a complete **digital oscilloscope system** combining embedded si
 - Real-time signal display (oscilloscope-like view)  
 - **FFT view** for frequency analysis  
 - **Filter options** to reduce noise (low-pass, high-pass, etc.)  
-- Interactive interface for zooming, pausing, and saving data  
+- Interactive interface for zooming, pausing, and saving data
+  
 ![Signal scope](assets/signal_scope.png)  
+FFT scope:
 ![FFT](assets/FFT.png)
 
 ### Signal Conditioning
