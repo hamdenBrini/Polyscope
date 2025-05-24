@@ -22,7 +22,9 @@ This project is a complete **digital oscilloscope system** combining embedded si
 - **FFT view** for frequency analysis
 - **Filter options** to reduce noise (low-pass, high-pass, etc.)
 - Interactive interface for zooming, pausing, and saving data
-![Graphical Interface](assets/signal_scope.png)
+<p align="center">
+  <img src="assets/signal_scope.png" alt="Graphical Interface" width="600"/>
+</p>
 
 ### Signal Conditioning
 - Designed a **voltage adaptation circuit** to shift input signals into the STM32 ADC range
