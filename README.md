@@ -1,7 +1,7 @@
 # PolyScope
 
 This project is a complete **digital oscilloscope system** combining embedded signal acquisition and a desktop-based graphical interface. It enables **real-time signal visualization**, **FFT analysis**, and **noise filtering**.
-![FFT](assets/3D_model_exploded_view.png)
+![3D_model](assets/3D_model.png)
 ## Overview
 
 - **Microcontroller**: STM32H533RE  
@@ -38,7 +38,7 @@ FFT scope:
 - Custom mounts were created for the STM32 board,PCBs and connectors to ensure secure fitting.  
 - Ventilation and cable management were considered to optimize cooling and usability.  
 - 3D models and assembly drawings are included in the `design/` folder of the repository for reference.
-
+![3D_model](assets/3D_model_exploded_view.png)
 ## Hardware Requirements
 
 - STM32H533RE Nucleo Board  
